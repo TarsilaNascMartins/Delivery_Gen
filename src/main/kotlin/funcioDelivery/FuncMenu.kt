@@ -1,0 +1,4 @@
+package funcioDelivery
+
+class FuncMenu {
+}
